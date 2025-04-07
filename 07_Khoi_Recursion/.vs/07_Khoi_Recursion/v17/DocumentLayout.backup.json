@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01FBE1-186C-4770-88C1-105E29C53D0E}|UnitTest_07_Khoi\\UnitTest_07_Khoi.csproj|d:\\btl_ktpm_07_khoi\\07_khoi_recursion\\unittest_07_khoi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E01FBE1-186C-4770-88C1-105E29C53D0E}|UnitTest_07_Khoi\\UnitTest_07_Khoi.csproj|solutionrelative:unittest_07_khoi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01FBE1-186C-4770-88C1-105E29C53D0E}|UnitTest_07_Khoi\\UnitTest_07_Khoi.csproj|D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\unittest_07_khoi\\data_07_khoi\\testdata_07_khoi.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E01FBE1-186C-4770-88C1-105E29C53D0E}|UnitTest_07_Khoi\\UnitTest_07_Khoi.csproj|solutionrelative:unittest_07_khoi\\data_07_khoi\\testdata_07_khoi.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CA5BA-5F3B-44EB-9184-A34F67D9C828}|07_Khoi_Recursion\\07_Khoi_Recursion.csproj|D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_khoi_recursion\\form_07_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CA5BA-5F3B-44EB-9184-A34F67D9C828}|07_Khoi_Recursion\\07_Khoi_Recursion.csproj|solutionrelative:07_khoi_recursion\\form_07_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CA5BA-5F3B-44EB-9184-A34F67D9C828}|07_Khoi_Recursion\\07_Khoi_Recursion.csproj|D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_khoi_recursion\\form_07_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{435CA5BA-5F3B-44EB-9184-A34F67D9C828}|07_Khoi_Recursion\\07_Khoi_Recursion.csproj|solutionrelative:07_khoi_recursion\\form_07_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CA5BA-5F3B-44EB-9184-A34F67D9C828}|07_Khoi_Recursion\\07_Khoi_Recursion.csproj|D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_khoi_recursion\\cal_recursion_07_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435CA5BA-5F3B-44EB-9184-A34F67D9C828}|07_Khoi_Recursion\\07_Khoi_Recursion.csproj|solutionrelative:07_khoi_recursion\\cal_recursion_07_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestData_07_Khoi.csv",
+              "DocumentMoniker": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\UnitTest_07_Khoi\\Data_07_Khoi\\TestData_07_Khoi.csv",
+              "RelativeDocumentMoniker": "UnitTest_07_Khoi\\Data_07_Khoi\\TestData_07_Khoi.csv",
+              "ToolTip": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\UnitTest_07_Khoi\\Data_07_Khoi\\TestData_07_Khoi.csv",
+              "RelativeToolTip": "UnitTest_07_Khoi\\Data_07_Khoi\\TestData_07_Khoi.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-05T07:57:17.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\UnitTest_07_Khoi\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest_07_Khoi\\UnitTest1.cs",
+              "ToolTip": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\UnitTest_07_Khoi\\UnitTest1.cs*",
+              "RelativeToolTip": "UnitTest_07_Khoi\\UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:23:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_07_Khoi.cs",
+              "DocumentMoniker": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_Khoi_Recursion\\Form_07_Khoi.cs",
+              "RelativeDocumentMoniker": "07_Khoi_Recursion\\Form_07_Khoi.cs",
+              "ToolTip": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_Khoi_Recursion\\Form_07_Khoi.cs",
+              "RelativeToolTip": "07_Khoi_Recursion\\Form_07_Khoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:26:47.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cal_Recursion_07_Khoi.cs",
+              "DocumentMoniker": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_Khoi_Recursion\\Cal_Recursion_07_Khoi.cs",
+              "RelativeDocumentMoniker": "07_Khoi_Recursion\\Cal_Recursion_07_Khoi.cs",
+              "ToolTip": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_Khoi_Recursion\\Cal_Recursion_07_Khoi.cs",
+              "RelativeToolTip": "07_Khoi_Recursion\\Cal_Recursion_07_Khoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:26:02.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_07_Khoi.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_Khoi_Recursion\\Form_07_Khoi.cs",
+              "RelativeDocumentMoniker": "07_Khoi_Recursion\\Form_07_Khoi.cs",
+              "ToolTip": "D:\\BTL_KTPM_07_Khoi\\07_Khoi_Recursion\\07_Khoi_Recursion\\Form_07_Khoi.cs [Design]",
+              "RelativeToolTip": "07_Khoi_Recursion\\Form_07_Khoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:15:31.606Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

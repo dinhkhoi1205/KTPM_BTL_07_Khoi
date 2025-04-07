@@ -1,0 +1,5 @@
+﻿x_07_Khoi,n_07_Khoi,expected_07_Khoi
+2,3,8.0
+2,-3,0.125
+2,0,1
+0,-2,DivideByZero

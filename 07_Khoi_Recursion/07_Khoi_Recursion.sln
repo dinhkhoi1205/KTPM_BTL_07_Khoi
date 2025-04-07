@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Khoi_Recursion", "07_Khoi_Recursion\07_Khoi_Recursion.csproj", "{435CA5BA-5F3B-44EB-9184-A34F67D9C828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_07_Khoi", "UnitTest_07_Khoi\UnitTest_07_Khoi.csproj", "{9E01FBE1-186C-4770-88C1-105E29C53D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435CA5BA-5F3B-44EB-9184-A34F67D9C828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435CA5BA-5F3B-44EB-9184-A34F67D9C828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435CA5BA-5F3B-44EB-9184-A34F67D9C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435CA5BA-5F3B-44EB-9184-A34F67D9C828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E01FBE1-186C-4770-88C1-105E29C53D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E01FBE1-186C-4770-88C1-105E29C53D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E01FBE1-186C-4770-88C1-105E29C53D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E01FBE1-186C-4770-88C1-105E29C53D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B46499E-599F-495D-8783-251FD49F15B5}
+	EndGlobalSection
+EndGlobal
